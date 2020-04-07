@@ -7,4 +7,7 @@ assignees: ''
 
 ---
 
-Provide at least a short description and a link to the Action repository!
+Send a Pull Request instead!
+
+Check the [contributing guide](https://github.com/actions-rs/awesome-rust-actions/blob/master/CONTRIBUTING.md)
+on how to add new entries to this list.
