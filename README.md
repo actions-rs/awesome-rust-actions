@@ -6,7 +6,7 @@
 
 - [Installation](#installation)
 - [Ecosystem](#ecosystem)
-- [Dependency management(#dependency-management)
+- [Dependency management](#dependency-management)
 
 ## Installation
 
