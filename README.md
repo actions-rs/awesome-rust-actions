@@ -6,6 +6,7 @@
 
 - [Installation](#installation)
 - [Ecosystem](#ecosystem)
+- [Dependency Management](#dependency-management)
 
 ## Installation
 
@@ -17,6 +18,10 @@
 ## Ecosystem
 
 Various Actions helping to use all these amazing Rust crates
+
+## Dependency Management
+
+- [orf/cargo-bloat-action](https://github.com/marketplace/actions/cargo-bloat) - Analyse and track your Rust project binary size over time ![GitHub stars](https://img.shields.io/github/stars/orf/cargo-bloat-action?style=social)
 
 ### mdBook
 
