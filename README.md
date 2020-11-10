@@ -14,6 +14,7 @@
 - [hecrj/setup-rust-action](https://github.com/marketplace/actions/set-up-a-rust-toolchain) - Sets up a specific Rust toolchain for use in your GitHub Actions workflows  ![GitHub stars](https://img.shields.io/github/stars/hecrj/setup-rust-action?style=social)
 - [icepuma/rust-action](https://github.com/marketplace/actions/rust-action) - 'Silverbullet' for a quickstart Rust CI  ![GitHub stars](https://img.shields.io/github/stars/icepuma/rust-action?style=social)
 - [davidgraeff/rust-musl-action](https://github.com/marketplace/actions/rust-musl-builder-slim) - Action provides an environment with stable Rust 1.37, MUSL and x86_64-unknown-linux-musl target  ![GitHub stars](https://img.shields.io/github/stars/davidgraeff/rust-musl-action?style=social)
+- [jetli/wasm-pack-action](https://github.com/jetli/wasm-pack-action) - Install wasm-pack by downloading the executable (much faster than cargo install wasm-pack, seconds vs minutes)  ![GitHub stars](https://img.shields.io/github/stars/jetli/wasm-pack-action?style=social)
 
 ## Ecosystem
 
