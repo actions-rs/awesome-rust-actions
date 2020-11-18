@@ -1,3 +1,4 @@
+<!--lint disable awesome-badge-->
 # Awesome Rust Actions
 
 > A curated list of awesome GitHub Actions for Rust programming language ecosystem
