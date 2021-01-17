@@ -20,6 +20,10 @@
 
 Various Actions helping to use all these amazing Rust crates
 
+## Deployment
+
+- [katyo/publish-crates](https://github.com/katyo/publish-crates) - Checks if this crate (or any of the crates in this workspace) can be published and publishes them.
+
 ## Dependency Management
 
 - [orf/cargo-bloat-action](https://github.com/marketplace/actions/cargo-bloat) - Analyse and track your Rust project binary size over time ![GitHub stars](https://img.shields.io/github/stars/orf/cargo-bloat-action?style=social)
