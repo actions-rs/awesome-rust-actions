@@ -20,9 +20,15 @@
 
 Various Actions helping to use all these amazing Rust crates
 
+## Lint
+
+- [typos](https://github.com/crate-ci/typos/blob/master/docs/github-action.md) - Check your repo for typos
+
 ## Dependency Management
 
 - [orf/cargo-bloat-action](https://github.com/marketplace/actions/cargo-bloat) - Analyse and track your Rust project binary size over time ![GitHub stars](https://img.shields.io/github/stars/orf/cargo-bloat-action?style=social)
+- [cargo-audit](https://github.com/actions-rs/audit-check) - Check dependencies for vulnerabilities and outstanding CVEs
+- [cargo-deny-action](https://github.com/EmbarkStudios/cargo-deny-action) - Check your dependencies for licences and rustsec advisory
 
 ### mdBook
 
